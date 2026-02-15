@@ -102,21 +102,32 @@
 
 ---
 
-# 📈 Most Used Languages
+# 🧠 Most Used Languages & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihcas2015&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,cpp,tensorflow,pytorch,sklearn,opencv,arduino,raspberrypi" />
 </p>
+
 
 
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Milestones
+
+✅ Built multiple AI & IoT based academic projects  
+✅ Developed Computer Vision models for real-world problems  
+✅ Experience with Edge AI deployment (Raspberry Pi / IoT)  
+✅ Research oriented project development approach  
+✅ Active learner in Deep Learning & Intelligent Systems  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihcas2015&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20IoT-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interest-Computer%20Vision-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-AI%20Researcher-green?style=for-the-badge"/>
 </p>
+
 
 
 
