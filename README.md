@@ -105,8 +105,9 @@
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihcas2015&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihcas2015&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8"/>
 </p>
+
 
 
 ---
@@ -114,8 +115,9 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihcas2015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nihcas2015&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 
 ---
@@ -143,8 +145,9 @@
 # 📊 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihcas2015&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihcas2015&theme=tokyo-night&hide_border=true&area=true&custom_title=Sachin's%20Contribution%20Graph"/>
 </p>
+
 
 ---
 
@@ -153,6 +156,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nihcas2015/nihcas2015/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 ---
 
